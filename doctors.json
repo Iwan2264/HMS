@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. John Smith",
+      "specialization": "Cardiology",
+      "qualifications": "MD, FACC",
+      "experience": 15,
+      "availability": "Mon-Fri, 9 AM - 2 PM",
+      "bio": "Expert in heart disease management with a focus on patient-centered care."
+    },
+    {
+      "id": 2,
+      "name": "Dr. Emily Johnson",
+      "specialization": "Pediatrics",
+      "qualifications": "MD, FAAP",
+      "experience": 10,
+      "availability": "Mon-Sat, 10 AM - 4 PM",
+      "bio": "Dedicated to child health and development."
+    },
+    {
+      "id": 3,
+      "name": "Dr. Michael Brown",
+      "specialization": "Neurology",
+      "qualifications": "MD, PhD",
+      "experience": 20,
+      "availability": "Tue-Thu, 8 AM - 1 PM",
+      "bio": "Specializes in neurological disorders and brain health."
+    },
+    {
+      "id": 4,
+      "name": "Dr. Sarah Davis",
+      "specialization": "Dermatology",
+      "qualifications": "MD, FAAD",
+      "experience": 12,
+      "availability": "Mon-Fri, 11 AM - 5 PM",
+      "bio": "Expert in skin care and cosmetic dermatology."
+    },
+    {
+      "id": 5,
+      "name": "Dr. Robert Wilson",
+      "specialization": "Orthopedics",
+      "qualifications": "MD, FACS",
+      "experience": 18,
+      "availability": "Wed-Sat, 9 AM - 3 PM",
+      "bio": "Focuses on joint replacement and sports injuries."
+    },
+    {
+      "id": 6,
+      "name": "Dr. Linda Martinez",
+      "specialization": "Gynecology",
+      "qualifications": "MD, FACOG",
+      "experience": 14,
+      "availability": "Mon-Fri, 10 AM - 2 PM",
+      "bio": "Passionate about women's health and wellness."
+    },
+    {
+      "id": 7,
+      "name": "Dr. James Taylor",
+      "specialization": "Oncology",
+      "qualifications": "MD, PhD",
+      "experience": 22,
+      "availability": "Tue-Fri, 8 AM - 12 PM",
+      "bio": "Specializes in cancer treatment and research."
+    },
+    {
+      "id": 8,
+      "name": "Dr. Anna Lee",
+      "specialization": "Endocrinology",
+      "qualifications": "MD, FACE",
+      "experience": 11,
+      "availability": "Mon-Thu, 9 AM - 4 PM",
+      "bio": "Expert in hormonal disorders and diabetes management."
+    },
+    {
+      "id": 9,
+      "name": "Dr. David Clark",
+      "specialization": "Gastroenterology",
+      "qualifications": "MD, FACG",
+      "experience": 16,
+      "availability": "Wed-Sat, 10 AM - 3 PM",
+      "bio": "Focuses on digestive health and liver diseases."
+    },
+    {
+      "id": 10,
+      "name": "Dr. Rachel Adams",
+      "specialization": "Psychiatry",
+      "qualifications": "MD, FAPA",
+      "experience": 13,
+      "availability": "Mon-Fri, 11 AM - 6 PM",
+      "bio": "Dedicated to mental health and therapy."
+    }
+  ]
